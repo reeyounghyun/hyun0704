@@ -1,8 +1,8 @@
-<h2>프론트앤드 개발자 <strong>이영현</strong>입니다</h2>
-<img scr="./public/memoji2.jpg" alt="이영현" style="width:100px; height:100px: border-radius: 30px;">
+<h1 align="center"> 프론트앤드 개발자 <strong>이영현</strong>입니다</h1>
+<img scr="/public/memoji2.jpg" alt="이영현" width:100px; height:100px: border-radius: 30px; align="center">
 
 <div class="wrap">
-  <h3 align="center">kill & Tolls</h3>
+  <h2 align="center">kill & Tolls</h2>
   <h3 align="center"> 🛠 language 🛠 </h3>
   ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
   ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
