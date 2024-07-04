@@ -1,26 +1,41 @@
-<h1 align="center"> 프론트앤드 개발자 <strong>이영현</strong>입니다</h1>
-<img scr="/public/memoji2.jpg" alt="이영현" width:100px; height:100px: border-radius: 30px; align="center">
+<div align="center">	
+  
+   # 프론트앤드 개발자 이영현입니다
+</div>
+   <div align="center">	
+     
+  ![memoji2](https://github.com/reeyounghyun/hyun0704/assets/115164041/41baf920-1e0a-407c-944d-6c83b3dd0f8f)
 
-<div class="wrap">
-  <h2 align="center">kill & Tolls</h2>
-  <h3 align="center"> 🛠 language 🛠 </h3>
-  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-  ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-  ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
-  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+   # kill & Tolls 
+  </div>
+  
+<div align="center">	
+   <h4>
+      :cat:
+     language
+   </h4>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" />
+	<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white" />
+	<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white" />	
+	<img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white" />
+	<img src="https://img.shields.io/badge/StyledComponents-DB7093?style=flat&logo=StyledComponents&logoColor=white" />
+	<img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&logo=TailwindCSS&logoColor=white" />
+	<img src="https://img.shields.io/badge/Redux-764abc?style=flat&logo=Redux&logoColor=white" />
+</div>
 
-  <h3 align="center"> 🛠 Tolle 🛠 </h3>
-  ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-  ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
-  ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
+<div align="center">
+	<h4>⚒️ Tools</h4>
+	<img src="https://img.shields.io/badge/VisualStudioCode-007ACC?style=flat&logo=VisualStudioCode&logoColor=white" />
+	<img src="https://img.shields.io/badge/Github-181717?style=flat&logo=github&logoColor=white" />
+	<img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white" />
+</div>
 
-  <h3 align="center"> 🛠 design 🛠 </h3>
-  ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+  <div align="center">
+       <h4>
+   :broken_heart:
+     design
+   </h4>
+ 	<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=Figma&logoColor=white" />  
+    
   ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
-
-  <h3 align="center"> 🛠 interested 🛠 </h3>
-  ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-  ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-  ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
 </div>
